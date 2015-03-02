@@ -9,6 +9,7 @@ public class GameLogic : MonoBehaviour {
 		Correct
 	}
 
+
 	public NumScoreLevel currentScoreLevel = NumScoreLevel.ToFar;
 	private int currentNumber = 0;
 	public int ProduceGameNumber() {
